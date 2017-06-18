@@ -65,7 +65,6 @@
 
     <modules>
         <module>spring-eureka</module>
-        <module>spring-eureka-client</module>
         <module>spring-hystrix-demo</module>
         <module>spring-service-demo</module>
         <module>spring-hystrix-dashboard</module>
