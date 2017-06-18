@@ -5,4 +5,4 @@ spring-hystrix-demo/target/generated-sources/
 spring-service-demo/target/generated-sources/
 
 .idea
-
+spring-hystrix.iml
