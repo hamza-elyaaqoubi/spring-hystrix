@@ -1,0 +1,12 @@
+---
+spring:
+  application:
+    name: sample-eureka-client
+
+eureka:
+  instance:
+    nonSecurePort: ${server.port:9001}
+  client:
+    preferIpAddress: true
+    serviceUrl:
+      defaultZone: http://${eureka.host:localhost}:${eureka.port:9000}/eureka/
