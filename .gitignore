@@ -1,8 +1,8 @@
-spring-eureka-client/target/generated-sources/
-spring-eureka/target/generated-sources/
-spring-hystrix-dashboard/target/generated-sources/
-spring-hystrix-demo/target/generated-sources/
-spring-service-demo/target/generated-sources/
+spring-eureka-client/target/
+spring-eureka/target/
+spring-hystrix-dashboard/target/
+spring-hystrix-demo/target/
+spring-service-demo/target/
 
 .idea
 spring-hystrix.iml

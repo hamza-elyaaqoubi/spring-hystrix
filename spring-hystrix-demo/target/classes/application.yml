@@ -1,7 +1,0 @@
----
-server:
-  port: 9002
-
-eureka:
-  instance:
-    hostname: localdomain2

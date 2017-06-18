@@ -1,7 +1,0 @@
----
-server:
-  port: 9004
-
-eureka:
-  instance:
-    hostname: localdomain3
