@@ -4,9 +4,9 @@ server:
 
 eureka:
   instance:
-    hostname: localdomain1
+    hostname: localhost
 
 turbine:
-  appConfig: HYSTRIX-DEMO,SERVICE-DEMO
+  appConfig: HD, HS
   aggregator:
-    clusterConfig: HYSTRIX-DEMO,SERVICE-DEMO
+    clusterConfig: HD, HS

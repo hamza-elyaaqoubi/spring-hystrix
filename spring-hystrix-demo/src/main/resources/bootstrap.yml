@@ -1,7 +1,7 @@
 ---
 spring:
   application:
-    name: hystrix-demo
+    name: HD
 
 eureka:
   instance:

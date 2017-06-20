@@ -4,4 +4,4 @@ server:
 
 eureka:
   instance:
-    hostname: localdomain3
+    hostname: localhost
